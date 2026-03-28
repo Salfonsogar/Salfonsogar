@@ -1,5 +1,5 @@
 <h1 align="left">👋 hi, I'm Santiago!</h1>
-<h3>A passionate frontend developer from Colombia</h3>
+<h3>A passionate developer from Colombia</h3>
 
 🔭 I’m currently working on [Openbooks](https://github.com/Salfonsogar/OpenBooksMobile.git)  
 
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
  
-🌐 Contact me
+## <h3 align="left">🌐 Contact me</h3>
 <p align="left">
   <a href="mailto:salgarciasalazar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
