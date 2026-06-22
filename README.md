@@ -3,6 +3,11 @@
 
 🔭 I’m currently working on [Openbooks](https://github.com/Salfonsogar/OpenBooksMobile.git)  
 
+## <h3 align="left">💻 Stats</h3>
+![Salfonsogar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salfonsogar&theme=dark&hide_border=true)
+
+![Salfonsogar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salfonsogar&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ## <h3 align="left">💻 Tech Stack</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
