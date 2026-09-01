@@ -1,7 +1,7 @@
 <h1 align="left">👋 hi, I'm Santiago!</h1>
 <h3>A passionate developer from Colombia</h3>
 
-🔭 I’m currently working on [Openbooks](https://github.com/Salfonsogar/OpenBooksMobile.git)  
+🔭 I’m currently working on [wallet](https://github.com/Salfonsogar/Wallet)  
 
 ## <h3 align="left">💻 Stats</h3>
 ![Salfonsogar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salfonsogar&theme=dark&hide_border=true)
