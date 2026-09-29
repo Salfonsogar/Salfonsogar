@@ -17,7 +17,6 @@
 
 - 🎓 Software Engineering student based in **Valledupar, Colombia**
 - 💻 Passionate about **Full-Stack, Mobile, and Backend development**
-- 🚀 Currently building **[Wallet](https://github.com/Salfonsogar/Wallet)** — personal finance management
 - 📚 Always learning new technologies and best practices
 - 🎯 Goal: build clean, scalable, and useful software
 - ⚡ Fun fact: I use **Linux + Bash** as my daily driver
@@ -55,35 +54,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Salfonsogar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Salfonsogar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salfonsogar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Salfonsogar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Wallet](https://github.com/Salfonsogar/Wallet) ⭐ | Personal finance management app — **currently in active development** | JavaScript |
-| [OpenBooksMobile](https://github.com/Salfonsogar/OpenBooksMobile) | Mobile client for the OpenBooks ecosystem | Mobile |
-| [OpenBooksBack](https://github.com/Salfonsogar/OpenBooksBack) | Backend API for the OpenBooks ecosystem | Backend |
-| [EmpleaData](https://github.com/Salfonsogar/EmpleaData) | Dynamic National Employability Analyzer (2021–2026) | Data |
-| [Docscan](https://github.com/Salfonsogar/Docscan) | Document scanning utility | - |
-| [portafolio](https://github.com/Salfonsogar/portafolio) | My personal portfolio website | HTML |
+- [Wallet](https://github.com/Salfonsogar/Wallet) Personal finance management app. 
+- [OpenBooksMobile](https://github.com/Salfonsogar/OpenBooksMobile) Mobile client for the OpenBooks ecosystem. 
+- [EmpleaData](https://github.com/Salfonsogar/EmpleaData) Dynamic National Employability Analyzer (2021–2026).
+- [Asistem](https://asistencias-9bcf3-d33be.web.app/) Real-Time Attendance and Grading Manager.
 
 ---
-
-### ✍️ Random Dev Quote
 
 <div align="center">
 
