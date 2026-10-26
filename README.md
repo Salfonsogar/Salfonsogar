@@ -56,7 +56,7 @@
 
 ### 🚀 Featured Projects
 
-- [Wallet](https://github.com/Salfonsogar/Wallet) Personal finance management app. 
+- [Wallet](https://wallet-aef94.web.app/) Personal finance management app. 
 - [OpenBooksMobile](https://github.com/Salfonsogar/OpenBooksMobile) Mobile client for the OpenBooks ecosystem. 
 - [EmpleaData](https://github.com/Salfonsogar/EmpleaData) Dynamic National Employability Analyzer (2021–2026).
 - [Asistem](https://asistencias-9bcf3-d33be.web.app/) Real-Time Attendance and Grading Manager.
